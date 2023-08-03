@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Abel-Nuri
-- 👀 I’m interested in studing computer science (web and android) 
-- 🌱 I’m currently learning js, react and Flutter.
+- I have Bachelor degree in computer science.
+- I'm interested in coding.
+- very interested in front-end developing spacial for android development.
+- very good in flutter which is my final project's working framework.
+- I’m currently learning js, react, react-native.
 - 📫 you can use my email addres abelyegera@gmail.com
-
