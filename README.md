@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abel-Nuri
 - I have Bachelor degree in computer science.
+- During my Industrial practice I was working in EagleLion System Technology for 2 months at the section of front-end developers.
 - I'm interested in coding.
 - very interested in front-end developing spacial for android development.
 - very good in flutter which is my final project's working framework.
